@@ -1,4 +1,4 @@
-# Contrasting water use  revealed by transpiration dynamics in the Caatinga 
+# Contrasting water use revealed by transpiration dynamics in the Caatinga 
 
 This repository contains the data used for the paper: [Contrasting water use strategies revealed by species-specific transpiration dynamics in the Caatinga dry forest](https://academic.oup.com/treephys/advance-article/doi/10.1093/treephys/tpad137/7342201?utm_source=advanceaccess&utm_campaign=treephys&utm_medium=email). 
 
@@ -12,6 +12,7 @@ The general aim of this paper was to better understand how the sap flux density 
    * VPD_kPa: vapor pressure deficit in kPa
    * Avrg_VWC0_50: average volumetric water content of top 50 cm of soil, in percent or cubic cm per cubic cm
    * Hindex: the hysteresis area index of sap flux density vs vapor pressure deficit; this values is on a  range of 0-1
+     
 2. **LWP.csv**
    * Date: date
    * Sps: 4-letter species code
