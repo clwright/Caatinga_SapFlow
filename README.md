@@ -2,7 +2,9 @@
 
 This repository contains the data used for the paper: [Contrasting water use strategies revealed by species-specific transpiration dynamics in the Caatinga dry forest](https://academic.oup.com/treephys/advance-article/doi/10.1093/treephys/tpad137/7342201?utm_source=advanceaccess&utm_campaign=treephys&utm_medium=email). 
 
-The general aim of this paper was to better understand how the sap flux density of species with low vs. high wood densities differ in their sensitivity to vapor pressure deficit and soil water content, and how potentially opposing water use strategies influence transpiration dynamics and ultimately correlations to evapotranspiration. The data contained in this repository Data folder is:
+The general aim of this paper was to better understand how the sap flux density of species with low vs. high wood densities differ in their sensitivity to vapor pressure deficit and soil water content, and how potentially opposing water use strategies influence transpiration dynamics and ultimately correlations to evapotranspiration. 
+
+The files contained in thi repo Data folder is:
 
 1. **SFdaily.csv**
    * Date: date 
