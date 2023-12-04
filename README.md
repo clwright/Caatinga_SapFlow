@@ -1,4 +1,4 @@
-# Contrasting water use strategies revealed by species-specific transpiration dynamics in the Caatinga dry forest
+# Contrasting water use  revealed by transpiration dynamics in the Caatinga 
 
 This repository contains the data and R code used for the paper: [Contrasting water use strategies revealed by species-specific transpiration dynamics in the Caatinga dry forest](https://academic.oup.com/treephys/advance-article/doi/10.1093/treephys/tpad137/7342201?utm_source=advanceaccess&utm_campaign=treephys&utm_medium=email). 
 
