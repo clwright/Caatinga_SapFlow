@@ -6,15 +6,15 @@ The general aim of this paper was to better understand how the sap flux density 
 
 The files contained in thi repo Data folder is:
 
-1. **SFdaily.csv**
-   * Date: date 
+1. **SFmonthly.csv**
+   * Month: month
+   * Year: year
    * Sps: 4-letter species code
    * SapFlux_g_s_m2: sap flux density in g per s per sq. m
    * SapFlow_cm3water_s: sap flow or transpiration in cubic cm of water per s
    * VPD_kPa: vapor pressure deficit in kPa
    * Avrg_VWC0_50: average volumetric water content of top 50 cm of soil, in percent or cubic cm per cubic cm
-   * Hindex: the hysteresis area index of sap flux density vs vapor pressure deficit; this values is on a  range of 0-1
-     
+        
 2. **LWP.csv**
    * Date: date
    * Sps: 4-letter species code
@@ -27,7 +27,7 @@ The files contained in thi repo Data folder is:
   
 *Please note that the evapotranspiration data used in this paper is NOT included here as it belongs to collaborators and may be accessible elsewhere.* 
 
-If you would like to use the data for a publication, please reach out to me.
+If you would like to use this or more detailed data for a publication, please reach out to me.
 
 
    
